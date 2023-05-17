@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fglBuildTarget xmlns="http://namespaces.querix.com/lyciaide/target" name="01_01_display" type="fgl-program">
+  <sources type="fgl">
+    <file location="01_01_display.4gl"/>
+  </sources>
+</fglBuildTarget>
