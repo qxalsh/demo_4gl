@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<fglProject name="techwr">
+<fglProject name="demo_project">
   <data>
     <item id="com.querix.fgl.core.pathentries">
       <pathentry kind="out" path="output" />
       <pathentry kind="src" path="source" />
     </item>
     <item id="com.querix.fgl.core.buildtargets">
-      <buildTarget location="." name="01_01_display" type="fgl-program"/>
+      <buildTarget name="hello_world" type="fgl-program"/>
     </item>
   </data>
 </fglProject>
