@@ -1,3 +1,3 @@
 MAIN
-    DISPLAY "Welcome - Lycia SaaS"
+    DISPLAY "Welcome - Lycia Training"
 END MAIN
